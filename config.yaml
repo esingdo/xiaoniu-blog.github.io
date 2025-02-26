@@ -9,6 +9,9 @@ enableGitInfo: true
 # 设置默认语言
 defaultContentLanguage: zh-cn
 
+# 时间设置
+timeZone: "Asia/Shanghai"
+
 # 前置配置
 frontmatter:
   lastmod:
@@ -17,6 +20,10 @@ frontmatter:
     - :fileModTime
     - date
     - publishDate
+
+# 页面配置
+paginate: 10
+summaryLength: 70
 
 # 启用搜索功能
 outputs:
@@ -60,6 +67,14 @@ params:
   featuredImageField: image
   rssFullContent: true
   favicon: "/favicon.ico"
+
+  footer:
+    since: 2023
+    customText: ""
+
+  dateFormat:
+    published: "2006-01-02"
+    lastUpdated: "2006-01-02 15:04 MST"
 
   # 设置页面宽度
   article:
