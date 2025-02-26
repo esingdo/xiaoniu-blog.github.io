@@ -1,0 +1,96 @@
+baseURL: "https://xiaoniu-blog.github.io/"
+languageCode: "zh-cn"
+title: "小牛AI探索"
+theme: "stack"
+
+# 设置默认语言
+defaultContentLanguage: zh-cn
+
+# 启用搜索功能
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # 用于搜索功能
+  page:
+    - HTML
+    - RSS
+
+# 启用菜单
+menu:
+  main:
+    - identifier: home
+      name: 首页
+      url: /
+      weight: 10
+    - identifier: about
+      name: 关于
+      url: /about
+      weight: 30
+    - identifier: categories
+      name: 分类
+      url: /categories
+      weight: 20
+    - identifier: tags
+      name: 标签
+      url: /tags
+      weight: 40
+    - identifier: search
+      name: 搜索
+      url: /search
+      weight: 50
+
+# Stack主题配置
+params:
+  description: "探索AI领域的最新发展与应用"
+  mainSections:
+    - post
+  featuredImageField: image
+  rssFullContent: true
+  favicon: "/favicon.ico"
+
+  # 设置页面宽度
+  article:
+    math: false
+    toc: true
+    readingTime: true
+
+  # 评论系统设置 (如果需要的话)
+  comments:
+    enabled: true
+    provider: disqus
+    disqusShortname: xiaoniu-blog
+
+  # 社交链接
+  social:
+    - identifier: github
+      name: GitHub
+      url: https://github.com/xiaoniu-blog
+      params:
+        icon: brand-github
+    - identifier: twitter
+      name: Twitter
+      url: https://twitter.com/xiaoniu
+      params:
+        icon: brand-twitter
+
+  # 搜索功能配置
+  widgets:
+    homepage:
+      - type: search
+      - type: archives
+        params:
+          limit: 5
+      - type: categories
+        params:
+          limit: 10
+      - type: tag-cloud
+        params:
+          limit: 20
+    page:
+      - type: toc
+
+  # 网站图标
+  colorScheme:
+    toggle: true
+    default: auto 

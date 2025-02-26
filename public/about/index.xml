@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>关于小牛AI探索 on 小牛AI探索</title>
+        <link>http://localhost:1313/about/</link>
+        <description>Recent content in 关于小牛AI探索 on 小牛AI探索</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <lastBuildDate></lastBuildDate><atom:link href="http://localhost:1313/about/index.xml" rel="self" type="application/rss+xml" />
+    </channel>
+</rss>
