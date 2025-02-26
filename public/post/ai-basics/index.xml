@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>人工智能基础知识简介 on 小牛AI探索</title>
-        <link>http://localhost:1313/post/ai-basics/</link>
+        <link>http://localhost:1313/xiaoniu-blog.github.io/post/ai-basics/</link>
         <description>Recent content in 人工智能基础知识简介 on 小牛AI探索</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
-        <lastBuildDate></lastBuildDate><atom:link href="http://localhost:1313/post/ai-basics/index.xml" rel="self" type="application/rss+xml" />
+        <lastBuildDate></lastBuildDate><atom:link href="http://localhost:1313/xiaoniu-blog.github.io/post/ai-basics/index.xml" rel="self" type="application/rss+xml" />
     </channel>
 </rss>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>机器学习 on 小牛AI探索</title>
-        <link>http://localhost:1313/tags/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/</link>
+        <link>http://localhost:1313/xiaoniu-blog.github.io/tags/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/</link>
         <description>Recent content in 机器学习 on 小牛AI探索</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
-        <lastBuildDate>Mon, 15 May 2023 09:00:00 +0800</lastBuildDate><atom:link href="http://localhost:1313/tags/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 15 May 2023 09:00:00 +0800</lastBuildDate><atom:link href="http://localhost:1313/xiaoniu-blog.github.io/tags/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>人工智能基础知识简介</title>
-        <link>http://localhost:1313/post/ai-basics/</link>
+        <link>http://localhost:1313/xiaoniu-blog.github.io/post/ai-basics/</link>
         <pubDate>Mon, 15 May 2023 09:00:00 +0800</pubDate>
         
-        <guid>http://localhost:1313/post/ai-basics/</guid>
-        <description>&lt;img src="http://localhost:1313/post/ai-basics/ai-cover.jpg" alt="Featured image of post 人工智能基础知识简介" /&gt;&lt;h1 id=&#34;人工智能基础知识简介&#34;&gt;人工智能基础知识简介
+        <guid>http://localhost:1313/xiaoniu-blog.github.io/post/ai-basics/</guid>
+        <description>&lt;img src="http://localhost:1313/xiaoniu-blog.github.io/post/ai-basics/ai-cover.jpg" alt="Featured image of post 人工智能基础知识简介" /&gt;&lt;h1 id=&#34;人工智能基础知识简介&#34;&gt;人工智能基础知识简介
 &lt;/h1&gt;&lt;p&gt;人工智能（Artificial Intelligence，简称AI）作为计算机科学的一个重要分支，已经成为当今科技发展的重要方向。本文将简要介绍人工智能的基础知识，帮助读者快速了解这一领域。&lt;/p&gt;
 &lt;h2 id=&#34;什么是人工智能&#34;&gt;什么是人工智能？
 &lt;/h2&gt;&lt;p&gt;人工智能是指由人创造的、具有模拟人类智能行为能力的计算机系统。这些系统能够执行通常需要人类智能才能完成的任务，如视觉感知、语音识别、决策制定、语言翻译等。&lt;/p&gt;

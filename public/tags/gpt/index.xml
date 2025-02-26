@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>GPT on 小牛AI探索</title>
-        <link>http://localhost:1313/tags/gpt/</link>
+        <link>http://localhost:1313/xiaoniu-blog.github.io/tags/gpt/</link>
         <description>Recent content in GPT on 小牛AI探索</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
-        <lastBuildDate>Thu, 20 Jul 2023 14:30:00 +0800</lastBuildDate><atom:link href="http://localhost:1313/tags/gpt/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 20 Jul 2023 14:30:00 +0800</lastBuildDate><atom:link href="http://localhost:1313/xiaoniu-blog.github.io/tags/gpt/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>大型语言模型的崛起与应用</title>
-        <link>http://localhost:1313/post/large-language-models/</link>
+        <link>http://localhost:1313/xiaoniu-blog.github.io/post/large-language-models/</link>
         <pubDate>Thu, 20 Jul 2023 14:30:00 +0800</pubDate>
         
-        <guid>http://localhost:1313/post/large-language-models/</guid>
-        <description>&lt;img src="http://localhost:1313/post/large-language-models/llm-cover.jpg" alt="Featured image of post 大型语言模型的崛起与应用" /&gt;&lt;h1 id=&#34;大型语言模型的崛起与应用&#34;&gt;大型语言模型的崛起与应用
+        <guid>http://localhost:1313/xiaoniu-blog.github.io/post/large-language-models/</guid>
+        <description>&lt;img src="http://localhost:1313/xiaoniu-blog.github.io/post/large-language-models/llm-cover.jpg" alt="Featured image of post 大型语言模型的崛起与应用" /&gt;&lt;h1 id=&#34;大型语言模型的崛起与应用&#34;&gt;大型语言模型的崛起与应用
 &lt;/h1&gt;&lt;p&gt;近年来，大型语言模型（Large Language Models，LLMs）的飞速发展引发了人工智能领域的一场革命。从GPT系列到其他开源模型，这些技术正在重塑我们与计算机交互的方式。本文将详细介绍大型语言模型的技术原理、现状及应用前景。&lt;/p&gt;
 &lt;h2 id=&#34;什么是大型语言模型&#34;&gt;什么是大型语言模型？
 &lt;/h2&gt;&lt;p&gt;大型语言模型是一类基于深度学习的自然语言处理模型，它们通过海量文本数据训练，能够理解、生成和转换人类语言。典型特征包括：&lt;/p&gt;
