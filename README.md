@@ -70,3 +70,4 @@ hugo new content/post/新文章目录/index.md
 本博客内容采用 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) 许可协议，代码部分采用 MIT 许可。 "# xiaoniu-blog.github.io" 
 "# xiaoniu-blog.github.io" 
 "# xiaoniu-blog" 
+"# xiaoniu-blog.github.io" 
