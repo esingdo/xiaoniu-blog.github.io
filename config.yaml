@@ -3,8 +3,20 @@ languageCode: "zh-cn"
 title: "小牛AI探索"
 theme: "stack"
 
+# 启用Git信息
+enableGitInfo: true
+
 # 设置默认语言
 defaultContentLanguage: zh-cn
+
+# 前置配置
+frontmatter:
+  lastmod:
+    - lastmod
+    - :git
+    - :fileModTime
+    - date
+    - publishDate
 
 # 启用搜索功能
 outputs:
